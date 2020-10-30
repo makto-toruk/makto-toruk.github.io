@@ -7,6 +7,6 @@ https://makto-toruk.github.io
    - I installed used the _Remote theme method_.
 
 ## 2. Develop locally
-- To develop locally, use `jekyll serve`.
+- To develop locally, use `bundle exec jekyll serve`.
 - I needed to add `gem 'jekyll-include-cache'` to my Gemfile to get this to work.
 
