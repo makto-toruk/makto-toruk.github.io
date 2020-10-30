@@ -20,7 +20,7 @@ title                    : "Manasij's notes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Manasij Venkatesh"
-description              : "An amazing website."
+description              : "Manasij's notes"
 url                      : "https://makto-toruk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
