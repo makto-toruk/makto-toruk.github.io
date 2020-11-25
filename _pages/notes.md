@@ -15,3 +15,4 @@ header:
 4. [_Python Essential Training_ by Bill Weinman](https://makto-toruk.github.io/course_python_0)
 5. [_Learning Docker_ by Arthur Ulfeldt](https://makto-toruk.github.io/course_docker_0)
 6. [_Programming Foundations: Algorithms_ by Bill Weinman](https://makto-toruk.github.io/course_python_1)
+7. [_Scala Essential Training for Data Science_ by Dan Sullivan](https://makto-toruk.github.io/course_scala_0/)
